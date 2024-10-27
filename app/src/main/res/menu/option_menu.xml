@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/viewList"
+        android:title="View" >
+        <menu >
+            <item
+                android:id="@+id/simple_list"
+                android:title="Simple List" />
+            <item
+                android:id="@+id/list"
+                android:title="List" />
+
+            <item
+                android:id="@+id/small_grid"
+                android:title="Small Grid" />
+            <item
+                android:id="@+id/medium_grid"
+                android:title="Medium Grid" />
+            <item
+                android:id="@+id/large_grid"
+                android:title="Large Grid"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/sorting"
+        android:title="Sort" >
+        <menu >
+            <item
+                android:id="@+id/from_a_to_z"
+                android:title="A to Z" />
+            <item
+                android:id="@+id/from_z_to_a"
+                android:title="Z to A" />
+            <item
+                android:id="@+id/ascending"
+                android:icon="@drawable/baseline_arrow_circle_up_24"
+                android:title="Date created" />
+            <item
+                android:id="@+id/descending"
+                android:icon="@drawable/baseline_arrow_circle_down_24"
+                android:title="Date Created" />
+        </menu>
+    </item>
+</menu>
