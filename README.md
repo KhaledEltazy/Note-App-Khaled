@@ -25,4 +25,10 @@ Welcome to *Note App Khaled*, my first Android project showcasing essential note
 - *ScrollView*: Optimized layouts for better accessibility.
 - *Shared Preferences*: Efficiently stores user settings and app states.
 - *LiveData*: Ensures real-time data updates across different components.
-- *Navigation Graph*: Manages in-app navigation for a more intuitive user experience.
+- *Navigation Graph*: Manages in-app navigation for a more intuitive user experience.
+
+## 🖼 Screenshots
+
+Example screenshot showing the app interface.
+
+![Adding Note](https://drive.google.com/file/d/1rOG8REwtfikSyd9m2WAtFZ4eslMyd2vB/view?usp=drive_link)
